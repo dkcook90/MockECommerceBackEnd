@@ -25,6 +25,22 @@
   ## Usage Information
 
   The primary usage of this application is to test routes and methods using MySQL and Insomnia for an ecommerce site.
+
+  Run 'node server.js' in the terminal
+
+  ![node server command image](./assets/first.png)
+
+  Wait for the server to listen on port 3001
+
+  ![server listening prompt](./assets/second.png)
+
+  Type in a route in Insomnia
+
+  ![insomnia route](./assets/third.png)
+
+  Recive a 200 response and observe the data
+
+  ![insomnia route](./assets/fourth.png)
   
   ## License
 
